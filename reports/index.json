@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260624-185305-sre7",
+      "title": "Swag Senpai",
+      "commanders": [
+        "Swag Senpai"
+      ],
+      "dateStart": "2026-06-25T00:53:05.000Z",
+      "dateEnd": "2026-06-25T00:54:10.000Z",
+      "dateLabel": "6/24/2026, 6:53:05 PM - 6/24/2026, 6:54:10 PM",
+      "url": "https://Seshngames.github.io/SigLogs/?report=20260624-185305-sre7",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 8,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260622-185049-owjv",
       "title": "Swag Senpai",
       "commanders": [
